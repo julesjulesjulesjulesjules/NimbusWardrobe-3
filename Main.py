@@ -44,7 +44,6 @@ CATEGORIES = {
     "Footwear": [
         "Insulated Winter Boots",
         "Classic Boots",
-        "Rubber Rain Boots",
         "Ankle Boots",
         "Sneakers",
         "Loafers",
