@@ -378,6 +378,9 @@ def main_page():
         st.session_state["city_name"] = city_input
         switch_page("Result")
 
+    # Extra space for mobile display
+    st.text('')
+
 # Background box
 st.markdown(
     f"""
