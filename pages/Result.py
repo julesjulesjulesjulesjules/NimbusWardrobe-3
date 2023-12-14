@@ -53,7 +53,7 @@ def get_weather_and_clothing(city):
             outerwear_items = ["Winter Jacket/Coat"]
             topwear_items = ["Long-Sleeve Shirt", "Long-Sleeve Blouse"]
             layering_items = ["Heavy Sweater", "Fleece/Thermal Layer"]
-            bottomwear_items = ["Pants", "Jeans", "Insulated Pants"]
+            bottomwear_items = ["Pants", "Jeans", "Snow Pants"]
             footwear_items = ["Insulated Winter Boots"]
             accessories.extend(
                 [
@@ -92,7 +92,7 @@ def get_weather_and_clothing(city):
             outerwear_items = ["Winter Jacket/Coat"]
             topwear_items = ["Long-Sleeve Shirt", "Long-Sleeve Blouse"]
             layering_items = ["Heavy Sweater", "Fleece/Thermal Layer"]
-            bottomwear_items = ["Pants", "Jeans", "Insulated Pants"]
+            bottomwear_items = ["Pants", "Jeans", "Snow Pants"]
             footwear_items = ["Insulated Winter Boots"]
             accessories.extend(
                 [
@@ -131,7 +131,7 @@ def get_weather_and_clothing(city):
             outerwear_items = ["Winter Jacket/Coat"]
             topwear_items = ["Long-Sleeve Shirt", "Long-Sleeve Blouse"]
             layering_items = ["Heavy Sweater", "Cardigan"]
-            bottomwear_items = ["Pants", "Jeans", "Insulated Pants"]
+            bottomwear_items = ["Pants", "Jeans", "Snow Pants"]
             footwear_items = ["Insulated Winter Boots"]
             accessories.extend(
                 [
@@ -147,7 +147,7 @@ def get_weather_and_clothing(city):
             outerwear_items = ["Winter Jacket/Coat", "Wool Coat", "Parka"]
             topwear_items = ["Long-Sleeve Shirt", "Long-Sleeve Blouse"]
             layering_items = ["Heavy Sweater", "Cardigan"]
-            bottomwear_items = ["Pants", "Jeans", "Insulated Pants"]
+            bottomwear_items = ["Pants", "Jeans", "Snow Pants"]
             footwear_items = ["Classic Boots"]
             accessories.extend(
                 [
@@ -170,7 +170,7 @@ def get_weather_and_clothing(city):
             outerwear_items = ["Trench Coat", "Lightweight Down Jacket", "Softshell Jacket"]
             topwear_items = ["Long-Sleeve Shirt", "Long-Sleeve Blouse", "Long-Sleeve Dress"]
             layering_items = ["Heavy Sweater", "Cardigan", "Hoodie"]
-            bottomwear_items = ["Pants", "Jeans", "Insulated Pants"]
+            bottomwear_items = ["Pants", "Jeans", "Snow Pants"]
             footwear_items = ["Insulated Winter Boots", "Classic Boots"]
             accessories.extend(
                 [
