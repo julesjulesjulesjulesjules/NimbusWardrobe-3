@@ -439,3 +439,6 @@ if missing_items_one_gender:
     )  # To list the missing items in bullet points
     st.markdown(bullet_points, unsafe_allow_html=True)
 
+# Extra Space for better Mobile Display
+st.header('')
+st.header('')
