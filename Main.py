@@ -379,7 +379,8 @@ def main_page():
         switch_page("Result")
 
     # Extra space for mobile display
-    st.text('')
+    st.header('')
+    st.header('')
 
 # Background box
 st.markdown(
